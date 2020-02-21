@@ -1,6 +1,7 @@
 require'pry'
+
 def my_each(file)
-  # code here
+while 
 binding.pry
 
 end
