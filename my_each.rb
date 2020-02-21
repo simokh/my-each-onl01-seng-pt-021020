@@ -3,8 +3,10 @@ def my_each(file)
 
 new_array = []
 counter = 0
+while new_array < words.length.4.times
 
-# counter += 1 
+  puts 
+# counter += 1
 
 # while new_array < words.length
   # my_each(words) do |item|
