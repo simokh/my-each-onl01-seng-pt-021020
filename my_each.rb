@@ -4,6 +4,6 @@ def my_each(file)
 
 
 
-binding.pry
+# binding.pry
 
 end
