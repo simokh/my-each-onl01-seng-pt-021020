@@ -7,7 +7,7 @@ while counter < array.length
   yield (array[counter])
   counter += 1
 end
-return new_array
+return array
 end
 # yield(array[i])
 #     i = i + 1
