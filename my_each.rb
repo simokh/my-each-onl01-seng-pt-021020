@@ -1,5 +1,5 @@
 
-def my_each(array)
+def my_each(file)
 
 new_array = []
 counter = 0
