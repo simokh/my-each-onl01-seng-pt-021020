@@ -3,15 +3,10 @@ def my_each(file)
 
 new_array = []
 counter = 0
-while new_array < words.length
+while counter < file.length
 binding.pry
-  puts 
-# counter += 1
 
-# while new_array < words.length
-  # my_each(words) do |item|
-  #   expect(item).to equal(words[counter])
-  #   counter+=1
+
 
 
 
